@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Casual Blazer", 
+        "brand" : "Nike",
+        "price" : 25,
+        "rating" : 3.5,
+        "featured" : true
+    },
+    {
+        "name" : "Checked Shirt", 
+        "brand" : "Rebook",
+        "price" : 55,
+        "rating" : 4.5,
+        "featured" : false
+    },
+    {
+        "name" : "Leather Belt", 
+        "brand" : "Duke",
+        "price" : 15,
+        "rating" : 4,
+        "featured" : true
+    },
+    {
+        "name" : "Men's underwear", 
+        "brand" : "Wrangler",
+        "price" : 20,
+        "rating" : 3,
+        "featured" :false
+    }
+]
