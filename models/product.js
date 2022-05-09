@@ -8,7 +8,7 @@ const productSchema = new mongoose.Schema({
     brand : {
         type: String,
         required: [true, "Please provide a brand name"],
-        enum: {
+        enum: { 
            values: ["Wrangler", "Rebook", "Nike","Duke"],
            message: `{VALUE} is not supported`  // With validation
         },
